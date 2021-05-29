@@ -14,7 +14,7 @@ Additionally, the followig features are planned for a future release:
 * Cross-device sync (using your Pineplay account)
 
 # Development
-While it would be great to have Pineplay using either GTK or Qt, I feel that these are much more desktop-oriented, and very lacking when it comes to mobile. Therefore, Pineplay does not use Qt/Kirigami or GTK, instead opting for either Flutter, or Electron. 
+While it would be great to have Pineplay using either GTK or Qt, I feel that these are much more desktop-oriented, and very lacking when it comes to mobile. Therefore, Pineplay does not use Qt/Kirigami or GTK, instead opting for either Flutter or Electron. 
 
 Because Flutter uses the Dart programming language, it requires a lot more work to learn how to develop for it. Meanwhile, Electron is much easier to program for, since it makes use of HTML, CSS, and Javascript. The biggest downside to this approach is the performance.
 
