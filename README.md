@@ -13,6 +13,8 @@ Additionally, the followig features are planned for a future release:
 * Pineplay account
 * Cross-device sync (using your Pineplay account)
 
+BTW, it would be greatley appreciated if you decided to help [sponsor me on Patreon](https://www.patreon.com/jacobcrume). This allows me to continue working on open-source projects as well as start working on more complicated projects. Thanks!
+
 # Development
 While it would be great to have Pineplay using either GTK or Qt, I feel that these are much more desktop-oriented, and very lacking when it comes to mobile. Therefore, Pineplay does not use Qt/Kirigami or GTK, instead opting for either Flutter or Electron. 
 
